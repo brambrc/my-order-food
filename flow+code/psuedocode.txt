@@ -1,0 +1,16 @@
+PROGRAM order_online_food
+
+
+Open Application
+Read and Write "menu" with Arrays of Strings
+Read Menu Selection into "menu"
+? If Do you want to add more food
+Read Menu Selection into "menu"
+? If Don't want to add more food
+Checkout
+Read and Write "payment method" with Strings 
+? If Payment Success
+Food Delivered
+? If Payment not Success
+Read and Write "payment method" with Strings 
+End
